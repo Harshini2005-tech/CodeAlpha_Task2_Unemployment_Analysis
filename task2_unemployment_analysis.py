@@ -1,7 +1,4 @@
-''' CodeAlpha Data Science Internship
-Task 2: Unemployment Analysis with Python
-Author: <Harshini>
-Date: November 2025
+
 
 import pandas as pd
 import numpy as np
