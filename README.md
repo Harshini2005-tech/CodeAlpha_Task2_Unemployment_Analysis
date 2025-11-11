@@ -2,7 +2,7 @@ CodeAlpha_Task2_Unemployment_Analysis
 Unemployment Analysis in India using Python — CodeAlpha Internship Task 2
 CodeAlpha Internship — Task 2: Unemployment Analysis with Python
 
-🎯 Objective
+Objective
 Analyze unemployment data in India to understand regional and temporal trends, 
 and study the impact of COVID-19 (2020–2021) on unemployment rates.
 
